@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ChenYiMing1996/web_market.io#readme",
   "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",
     "bootstrap3": "^3.3.5",
     "css": "^2.2.4",
